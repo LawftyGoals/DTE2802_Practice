@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TaskC": {
+      "commandName": "Project",
+      "commandLineArgs": "convert 37 C"
+    }
+  }
+}

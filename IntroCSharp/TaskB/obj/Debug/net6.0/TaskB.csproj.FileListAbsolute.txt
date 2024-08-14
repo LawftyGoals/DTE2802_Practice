@@ -1,0 +1,14 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\bin\Debug\net6.0\TaskB.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\bin\Debug\net6.0\TaskB.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\bin\Debug\net6.0\TaskB.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\bin\Debug\net6.0\TaskB.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\bin\Debug\net6.0\TaskB.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\obj\Debug\net6.0\TaskB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\obj\Debug\net6.0\TaskB.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\obj\Debug\net6.0\TaskB.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\obj\Debug\net6.0\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\obj\Debug\net6.0\TaskB.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\obj\Debug\net6.0\refint\TaskB.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\obj\Debug\net6.0\TaskB.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\obj\Debug\net6.0\TaskB.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\ØvingsOppgaver\IntroCSharp\TaskB\obj\Debug\net6.0\ref\TaskB.dll
