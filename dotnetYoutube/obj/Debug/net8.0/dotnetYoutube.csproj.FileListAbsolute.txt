@@ -1,0 +1,15 @@
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\bin\Debug\net8.0\dotnetYoutube.exe
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\bin\Debug\net8.0\dotnetYoutube.deps.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\bin\Debug\net8.0\dotnetYoutube.runtimeconfig.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\bin\Debug\net8.0\dotnetYoutube.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\bin\Debug\net8.0\dotnetYoutube.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\dotnetYoutube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\dotnetYoutube.AssemblyInfoInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\dotnetYoutube.AssemblyInfo.cs
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\dotnetYoutube.csproj.CoreCompileInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\dotnetYoutube.sourcelink.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\dotnetYoutube.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\refint\dotnetYoutube.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\dotnetYoutube.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\dotnetYoutube.genruntimeconfig.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\obj\Debug\net8.0\ref\dotnetYoutube.dll
