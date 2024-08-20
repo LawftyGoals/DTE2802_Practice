@@ -1,0 +1,15 @@
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\bin\Debug\net6.0\WorkingWithLINQ.exe
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\bin\Debug\net6.0\WorkingWithLINQ.deps.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\bin\Debug\net6.0\WorkingWithLINQ.runtimeconfig.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\bin\Debug\net6.0\WorkingWithLINQ.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\bin\Debug\net6.0\WorkingWithLINQ.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\WorkingWithLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\WorkingWithLINQ.AssemblyInfoInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\WorkingWithLINQ.AssemblyInfo.cs
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\WorkingWithLINQ.csproj.CoreCompileInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\WorkingWithLINQ.sourcelink.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\WorkingWithLINQ.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\refint\WorkingWithLINQ.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\WorkingWithLINQ.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\WorkingWithLINQ.genruntimeconfig.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\WorkingWithLINQ\obj\Debug\net6.0\ref\WorkingWithLINQ.dll

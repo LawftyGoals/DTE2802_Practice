@@ -1,0 +1,14 @@
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\bin\Debug\net6.0\Oppgave4.exe
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\bin\Debug\net6.0\Oppgave4.deps.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\bin\Debug\net6.0\Oppgave4.runtimeconfig.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\bin\Debug\net6.0\Oppgave4.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\bin\Debug\net6.0\Oppgave4.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\obj\Debug\net6.0\Oppgave4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\obj\Debug\net6.0\Oppgave4.AssemblyInfoInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\obj\Debug\net6.0\Oppgave4.AssemblyInfo.cs
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\obj\Debug\net6.0\Oppgave4.csproj.CoreCompileInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\obj\Debug\net6.0\Oppgave4.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\obj\Debug\net6.0\refint\Oppgave4.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\obj\Debug\net6.0\Oppgave4.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\obj\Debug\net6.0\Oppgave4.genruntimeconfig.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\oppgave4\Oppgave4\Oppgave4\obj\Debug\net6.0\ref\Oppgave4.dll

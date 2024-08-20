@@ -1,0 +1,15 @@
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\bin\Debug\net6.0\DataManagementWithLists.exe
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\bin\Debug\net6.0\DataManagementWithLists.deps.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\bin\Debug\net6.0\DataManagementWithLists.runtimeconfig.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\bin\Debug\net6.0\DataManagementWithLists.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\bin\Debug\net6.0\DataManagementWithLists.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\DataManagementWithLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\DataManagementWithLists.AssemblyInfoInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\DataManagementWithLists.AssemblyInfo.cs
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\DataManagementWithLists.csproj.CoreCompileInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\DataManagementWithLists.sourcelink.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\DataManagementWithLists.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\refint\DataManagementWithLists.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\DataManagementWithLists.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\DataManagementWithLists.genruntimeconfig.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\DTE2802_Practice\dotnetYoutube\DataManagementWithLists\DataManagementWithLists\obj\Debug\net6.0\ref\DataManagementWithLists.dll
